@@ -37,7 +37,7 @@ async function scrapePumpFunTokens() {
   });
 
   // ✅ Step 3: Wait for token cards to load
-  await page.waitForSelector('.carousel-card');
+  await page.waitForSelector('.carousel-card', { timeout: 60000 });
 
   // ✅ Step 4: Small delay to ensure inner DOM is hydrated
   await new Promise(resolve => setTimeout(resolve, 3000));

@@ -13,7 +13,11 @@ async function getTokenSupply(mint) {
 }
 
 async function scrapePumpFunTokens() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    executablePath: '/usr/bin/google-chrome-stable',
+    headless: true,
+    args: ['--no-sandbox']
+  });
   const page = await browser.newPage();
 
   await page.goto('https://pump.fun/board?coins_sort=created_timestamp', {

@@ -1,5 +1,5 @@
 # Use Node.js base image
-FROM node:18
+FROM ghcr.io/puppeteer/puppeteer:latest
 
 # Set working directory
 WORKDIR /app

@@ -5,6 +5,7 @@ const runJupiterChecker = require('./utils/puppeteerCheck');
 const runTracker = require('./utils/tracker');
 const runPerformanceEvaluator = require('./utils/performanceEvaluator');
 const runEntryEvaluator = require('./utils/entryEvaluator');
+const screenshotPumpFun = require('./screenshotPumpFun');
 
 async function runSniperPipeline() {
   console.log(`🔄 [SNIPER] Running full pipeline: ${new Date().toLocaleTimeString()}`);
@@ -13,6 +14,9 @@ async function runSniperPipeline() {
   try {
     const newTokens = await scrapePumpFunTokens();
     if (newTokens.length > 0) {
+      const screenshotPath = await screenshotPumpFun();
+      console.log(`📦 Screenshot Function Ran`);
+
       console.log(`📦 Found ${newTokens.length} new tokens → checking Jupiter...`);
       logEvent('SCRAPER', `Scraped ${newTokens.length} token(s)`);
       await runJupiterChecker();

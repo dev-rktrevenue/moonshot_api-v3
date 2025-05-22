@@ -26,12 +26,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:17.686Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:43:47.007Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -53,6 +47,12 @@
         "time": "2025-05-21T15:57:23.793Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:48.275Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -84,12 +84,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:17.941Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5300
-      },
-      {
         "time": "2025-05-21T15:43:47.470Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -111,6 +105,12 @@
         "time": "2025-05-21T15:57:24.033Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5300
+      },
+      {
+        "time": "2025-05-21T16:02:48.517Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5300
       }
     ]
@@ -142,12 +142,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:18.186Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.00465885,
-        "marketCapUSD": 5600
-      },
-      {
         "time": "2025-05-21T15:43:47.792Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465831,
@@ -169,6 +163,12 @@
         "time": "2025-05-21T15:57:24.281Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 5600
+      },
+      {
+        "time": "2025-05-21T16:02:48.778Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 5600
       }
     ]
@@ -200,12 +200,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:18.427Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5100
-      },
-      {
         "time": "2025-05-21T15:43:48.082Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -227,6 +221,12 @@
         "time": "2025-05-21T15:57:24.550Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5100
+      },
+      {
+        "time": "2025-05-21T16:02:49.013Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5100
       }
     ]
@@ -258,12 +258,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:18.690Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 4800
-      },
-      {
         "time": "2025-05-21T15:43:48.484Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -285,6 +279,12 @@
         "time": "2025-05-21T15:57:24.801Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4800
+      },
+      {
+        "time": "2025-05-21T16:02:49.611Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4800
       }
     ]
@@ -316,12 +316,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:18.942Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5700
-      },
-      {
         "time": "2025-05-21T15:43:48.782Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -343,6 +337,12 @@
         "time": "2025-05-21T15:57:25.043Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5700
+      },
+      {
+        "time": "2025-05-21T16:02:49.976Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5700
       }
     ]
@@ -374,12 +374,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:19.188Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 9300
-      },
-      {
         "time": "2025-05-21T15:43:49.028Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -401,6 +395,12 @@
         "time": "2025-05-21T15:57:25.296Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 9300
+      },
+      {
+        "time": "2025-05-21T16:02:50.213Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 9300
       }
     ]
@@ -432,12 +432,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:19.466Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5000
-      },
-      {
         "time": "2025-05-21T15:43:49.321Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -459,6 +453,12 @@
         "time": "2025-05-21T15:57:25.559Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5000
+      },
+      {
+        "time": "2025-05-21T16:02:50.446Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5000
       }
     ]
@@ -490,12 +490,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:19.717Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 9700
-      },
-      {
         "time": "2025-05-21T15:43:49.631Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -517,6 +511,12 @@
         "time": "2025-05-21T15:57:25.808Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 9700
+      },
+      {
+        "time": "2025-05-21T16:02:50.669Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 9700
       }
     ]
@@ -548,12 +548,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:19.965Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5100
-      },
-      {
         "time": "2025-05-21T15:43:49.973Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -575,6 +569,12 @@
         "time": "2025-05-21T15:57:26.052Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5100
+      },
+      {
+        "time": "2025-05-21T16:02:50.914Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5100
       }
     ]
@@ -606,12 +606,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:20.216Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 5900
-      },
-      {
         "time": "2025-05-21T15:43:50.419Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -633,6 +627,12 @@
         "time": "2025-05-21T15:57:26.305Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5900
+      },
+      {
+        "time": "2025-05-21T16:02:51.175Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5900
       }
     ]
@@ -664,12 +664,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:20.471Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:43:50.677Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -691,6 +685,12 @@
         "time": "2025-05-21T15:57:26.652Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:51.408Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -722,12 +722,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:20.741Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 4800
-      },
-      {
         "time": "2025-05-21T15:43:50.937Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -749,6 +743,12 @@
         "time": "2025-05-21T15:57:26.899Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4800
+      },
+      {
+        "time": "2025-05-21T16:02:51.650Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4800
       }
     ]
@@ -780,12 +780,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:36:21.017Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044863,
-        "marketCapUSD": 4900
-      },
-      {
         "time": "2025-05-21T15:43:51.174Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448578,
@@ -807,6 +801,12 @@
         "time": "2025-05-21T15:57:27.169Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4900
+      },
+      {
+        "time": "2025-05-21T16:02:52.462Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4900
       }
     ]
@@ -838,12 +838,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:35.882Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.0046602,
-        "marketCapUSD": 5100
-      },
-      {
         "time": "2025-05-21T15:36:21.270Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -865,6 +859,12 @@
         "time": "2025-05-21T15:57:27.467Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 5100
+      },
+      {
+        "time": "2025-05-21T16:02:52.704Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 5100
       }
     ]
@@ -954,12 +954,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:36.466Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:21.781Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -981,6 +975,12 @@
         "time": "2025-05-21T15:57:27.984Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:53.181Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1012,12 +1012,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:36.727Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.0046602,
-        "marketCapUSD": 5000
-      },
-      {
         "time": "2025-05-21T15:36:22.031Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -1039,6 +1033,12 @@
         "time": "2025-05-21T15:57:28.641Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 5000
+      },
+      {
+        "time": "2025-05-21T16:02:53.414Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 5000
       }
     ]
@@ -1070,12 +1070,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:36.968Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.0046602,
-        "marketCapUSD": 4900
-      },
-      {
         "time": "2025-05-21T15:36:22.279Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -1097,6 +1091,12 @@
         "time": "2025-05-21T15:57:29.432Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 4900
+      },
+      {
+        "time": "2025-05-21T16:02:53.656Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 4900
       }
     ]
@@ -1128,12 +1128,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:37.217Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:22.527Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1155,6 +1149,12 @@
         "time": "2025-05-21T15:57:29.697Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:53.887Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1186,12 +1186,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:37.482Z",
-        "priceSOL": 0.000028,
-        "priceUSD": 0.0048328,
-        "marketCapUSD": 6300
-      },
-      {
         "time": "2025-05-21T15:36:22.796Z",
         "priceSOL": 0.000028,
         "priceUSD": 0.0048314,
@@ -1213,6 +1207,12 @@
         "time": "2025-05-21T15:57:29.924Z",
         "priceSOL": 0.000028,
         "priceUSD": 0.00481544,
+        "marketCapUSD": 6300
+      },
+      {
+        "time": "2025-05-21T16:02:54.131Z",
+        "priceSOL": 0.000028,
+        "priceUSD": 0.00481628,
         "marketCapUSD": 6300
       }
     ]
@@ -1244,12 +1244,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:37.731Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:23.081Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1271,6 +1265,12 @@
         "time": "2025-05-21T15:57:30.161Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:54.431Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1302,12 +1302,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:38.015Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:23.329Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1329,6 +1323,12 @@
         "time": "2025-05-21T15:57:30.392Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:54.699Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1360,12 +1360,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:38.269Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4800
-      },
-      {
         "time": "2025-05-21T15:36:23.593Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1387,6 +1381,12 @@
         "time": "2025-05-21T15:57:30.623Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4800
+      },
+      {
+        "time": "2025-05-21T16:02:54.962Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4800
       }
     ]
@@ -1418,12 +1418,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:38.517Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:23.840Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1445,6 +1439,12 @@
         "time": "2025-05-21T15:57:30.851Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:55.311Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1476,12 +1476,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:38.799Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:24.113Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1503,6 +1497,12 @@
         "time": "2025-05-21T15:57:31.086Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:55.702Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1534,12 +1534,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:39.051Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:24.409Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1561,6 +1555,12 @@
         "time": "2025-05-21T15:57:31.331Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:55.965Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1592,12 +1592,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:39.302Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:24.684Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1619,6 +1613,12 @@
         "time": "2025-05-21T15:57:31.567Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:56.227Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1650,12 +1650,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:39.558Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 5000
-      },
-      {
         "time": "2025-05-21T15:36:24.929Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1677,6 +1671,12 @@
         "time": "2025-05-21T15:57:31.800Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5000
+      },
+      {
+        "time": "2025-05-21T16:02:56.461Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5000
       }
     ]
@@ -1708,12 +1708,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:39.834Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 5400
-      },
-      {
         "time": "2025-05-21T15:36:25.197Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1735,6 +1729,12 @@
         "time": "2025-05-21T15:57:32.029Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5400
+      },
+      {
+        "time": "2025-05-21T16:02:56.697Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5400
       }
     ]
@@ -1766,12 +1766,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:40.086Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.0046602,
-        "marketCapUSD": 4800
-      },
-      {
         "time": "2025-05-21T15:36:25.445Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -1793,6 +1787,12 @@
         "time": "2025-05-21T15:57:32.261Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 4800
+      },
+      {
+        "time": "2025-05-21T16:02:56.955Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 4800
       }
     ]
@@ -1824,12 +1824,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:40.351Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 5300
-      },
-      {
         "time": "2025-05-21T15:36:25.727Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1851,6 +1845,12 @@
         "time": "2025-05-21T15:57:32.512Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5300
+      },
+      {
+        "time": "2025-05-21T16:02:57.197Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5300
       }
     ]
@@ -1882,12 +1882,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:40.602Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 5500
-      },
-      {
         "time": "2025-05-21T15:36:26.332Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1909,6 +1903,12 @@
         "time": "2025-05-21T15:57:32.748Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 5500
+      },
+      {
+        "time": "2025-05-21T16:02:57.433Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5500
       }
     ]
@@ -1940,12 +1940,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:40.861Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:26.578Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -1967,6 +1961,12 @@
         "time": "2025-05-21T15:57:32.981Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:57.666Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -1998,12 +1998,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:41.209Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:26.892Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2025,6 +2019,12 @@
         "time": "2025-05-21T15:57:33.217Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:57.895Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2056,12 +2056,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:41.452Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4900
-      },
-      {
         "time": "2025-05-21T15:36:27.153Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2083,6 +2077,12 @@
         "time": "2025-05-21T15:57:33.452Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4900
+      },
+      {
+        "time": "2025-05-21T16:02:58.137Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4900
       }
     ]
@@ -2114,12 +2114,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:41.696Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.0046602,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:27.401Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -2141,6 +2135,12 @@
         "time": "2025-05-21T15:57:33.710Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:58.400Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 4700
       }
     ]
@@ -2172,12 +2172,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:41.932Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:27.648Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2199,6 +2193,12 @@
         "time": "2025-05-21T15:57:33.942Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:58.984Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2230,12 +2230,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:42.202Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:27.943Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2257,6 +2251,12 @@
         "time": "2025-05-21T15:57:34.181Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:59.222Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2288,12 +2288,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:42.448Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:28.179Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2315,6 +2309,12 @@
         "time": "2025-05-21T15:57:34.414Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:59.466Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2346,12 +2346,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:33:42.689Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044876,
-        "marketCapUSD": 4800
-      },
-      {
         "time": "2025-05-21T15:36:28.415Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2373,6 +2367,12 @@
         "time": "2025-05-21T15:57:34.704Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4800
+      },
+      {
+        "time": "2025-05-21T16:02:59.700Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4800
       }
     ]
@@ -2404,12 +2404,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:22.535Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00448682,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:28.649Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2431,6 +2425,12 @@
         "time": "2025-05-21T15:57:35.033Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:02:59.949Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2462,12 +2462,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:22.760Z",
-        "priceSOL": 0.000032,
-        "priceUSD": 0.00552224,
-        "marketCapUSD": 5700
-      },
-      {
         "time": "2025-05-21T15:36:28.885Z",
         "priceSOL": 0.000032,
         "priceUSD": 0.0055216,
@@ -2489,6 +2483,12 @@
         "time": "2025-05-21T15:57:35.398Z",
         "priceSOL": 0.000032,
         "priceUSD": 0.00550336,
+        "marketCapUSD": 5700
+      },
+      {
+        "time": "2025-05-21T16:03:00.207Z",
+        "priceSOL": 0.000032,
+        "priceUSD": 0.00550432,
         "marketCapUSD": 5700
       }
     ]
@@ -2520,12 +2520,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:22.987Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00448682,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:29.140Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -2547,6 +2541,12 @@
         "time": "2025-05-21T15:57:35.629Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:00.439Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -2578,12 +2578,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:23.235Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.00465939,
-        "marketCapUSD": 7300
-      },
-      {
         "time": "2025-05-21T15:36:29.376Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -2605,6 +2599,12 @@
         "time": "2025-05-21T15:57:35.875Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 7300
+      },
+      {
+        "time": "2025-05-21T16:03:00.757Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 7300
       }
     ]
@@ -3286,12 +3286,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:23.476Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00448682,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:29.631Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044863,
@@ -3313,6 +3307,12 @@
         "time": "2025-05-21T15:57:36.103Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00447148,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:01.002Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -3344,12 +3344,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:23.717Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.00465939,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:29.872Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -3371,6 +3365,12 @@
         "time": "2025-05-21T15:57:36.348Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:01.232Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 4700
       }
     ]
@@ -3402,12 +3402,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T15:30:23.964Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.00465939,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T15:36:30.116Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465885,
@@ -3429,6 +3423,12 @@
         "time": "2025-05-21T15:57:36.586Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00464346,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:01.471Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 4700
       }
     ]
@@ -3460,12 +3460,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T14:50:56.073Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00442832,
-        "marketCapUSD": 5600
-      },
-      {
         "time": "2025-05-21T15:25:37.920Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448162,
@@ -3487,6 +3481,12 @@
         "time": "2025-05-21T15:47:43.673Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 5600
+      },
+      {
+        "time": "2025-05-21T16:03:01.696Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5600
       }
     ]
@@ -3518,12 +3518,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T14:50:56.322Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00442832,
-        "marketCapUSD": 6000
-      },
-      {
         "time": "2025-05-21T15:25:38.189Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448162,
@@ -3545,6 +3539,12 @@
         "time": "2025-05-21T15:47:43.921Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 6000
+      },
+      {
+        "time": "2025-05-21T16:03:01.915Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 6000
       }
     ]
@@ -3576,12 +3576,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:39:03.599Z",
-        "priceSOL": 0.000027,
-        "priceUSD": 0.00456246,
-        "marketCapUSD": 14000
-      },
-      {
         "time": "2025-05-21T14:50:56.582Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00459864,
@@ -3603,6 +3597,12 @@
         "time": "2025-05-21T15:47:44.315Z",
         "priceSOL": 0.000027,
         "priceUSD": 0.00465723,
+        "marketCapUSD": 14000
+      },
+      {
+        "time": "2025-05-21T16:03:02.138Z",
+        "priceSOL": 0.000027,
+        "priceUSD": 0.00464427,
         "marketCapUSD": 14000
       }
     ]
@@ -3634,12 +3634,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:39:03.889Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00439348,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T14:50:56.824Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00442832,
@@ -3661,6 +3655,12 @@
         "time": "2025-05-21T15:47:44.646Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:02.364Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -3692,12 +3692,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:39:04.159Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00439348,
-        "marketCapUSD": 4900
-      },
-      {
         "time": "2025-05-21T14:50:57.061Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00442832,
@@ -3719,6 +3713,12 @@
         "time": "2025-05-21T15:47:44.893Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 4900
+      },
+      {
+        "time": "2025-05-21T16:03:02.597Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4900
       }
     ]
@@ -3750,12 +3750,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:39:04.431Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00439348,
-        "marketCapUSD": 5000
-      },
-      {
         "time": "2025-05-21T14:50:57.300Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00442832,
@@ -3777,6 +3771,12 @@
         "time": "2025-05-21T15:47:45.148Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 5000
+      },
+      {
+        "time": "2025-05-21T16:03:02.819Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5000
       }
     ]
@@ -3808,12 +3808,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:34:22.144Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00438724,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T13:39:04.755Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00439348,
@@ -3835,6 +3829,12 @@
         "time": "2025-05-21T15:47:45.428Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:03.051Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -3866,12 +3866,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:34:22.396Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00438724,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T13:39:05.010Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00439348,
@@ -3893,6 +3887,12 @@
         "time": "2025-05-21T15:47:45.689Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:03.283Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -3924,12 +3924,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T13:00:00.031Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.0044018,
-        "marketCapUSD": 4700
-      },
-      {
         "time": "2025-05-21T13:34:22.647Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00438724,
@@ -3951,6 +3945,12 @@
         "time": "2025-05-21T15:47:45.946Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 4700
+      },
+      {
+        "time": "2025-05-21T16:03:03.510Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 4700
       }
     ]
@@ -3982,12 +3982,6 @@
     "isTradable": true,
     "checkHistory": [
       {
-        "time": "2025-05-21T12:49:46.820Z",
-        "priceSOL": 0.000026,
-        "priceUSD": 0.00441012,
-        "marketCapUSD": 5300
-      },
-      {
         "time": "2025-05-21T13:00:00.280Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.0044018,
@@ -4009,6 +4003,12 @@
         "time": "2025-05-21T15:47:46.205Z",
         "priceSOL": 0.000026,
         "priceUSD": 0.00448474,
+        "marketCapUSD": 5300
+      },
+      {
+        "time": "2025-05-21T16:03:03.817Z",
+        "priceSOL": 0.000026,
+        "priceUSD": 0.00447226,
         "marketCapUSD": 5300
       }
     ]
@@ -56520,7 +56520,7 @@
     "marketCapUSD": 5800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000058,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56528,8 +56528,8 @@
     "id": "Bitcoin Roller Coaster-(BTCoaster)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000058,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:22.174Z",
     "cleanMint": "6qxT3v6icW83vEDfnjQw3zr2zLxVEitVRTp52eX",
@@ -56546,7 +56546,7 @@
     "marketCapUSD": 8400,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000084,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56554,8 +56554,8 @@
     "id": "⚡️Bitcoin Core ⚡️-(⚡️)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000084,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:22.420Z",
     "cleanMint": "G9kwyvtKsnPxawvNGvYZfcRunwaVfdeWM98XpiSB",
@@ -56572,7 +56572,7 @@
     "marketCapUSD": 5800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000058,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56580,8 +56580,8 @@
     "id": "Be Boring-(Be Boring)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000058,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:22.695Z",
     "cleanMint": "4zPw4CXhD32TksaVrPtg53AuVSUKjG3mz2N1E47g",
@@ -56598,7 +56598,7 @@
     "marketCapUSD": 5800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000058,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56606,8 +56606,8 @@
     "id": "DUOLINGO THIS WAS MEANT FOR YOU-(HYPNOTIZE)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000058,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:22.950Z",
     "cleanMint": "Fg3NaRRohDT97kzK2WYaBAxtEhDwHg1ZwSS6Tegx",
@@ -56624,7 +56624,7 @@
     "marketCapUSD": 5200,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000052,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56632,8 +56632,8 @@
     "id": "Suck My Bit-(SMB)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000052,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:23.194Z",
     "cleanMint": "2MHCGrBwVQmDfYhb5YJx2UgfiqeehzgffkLkccca",
@@ -56650,7 +56650,7 @@
     "marketCapUSD": 5900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000059,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56658,8 +56658,8 @@
     "id": "&lt;3-(&lt;3)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000059,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:23.452Z",
     "cleanMint": "4PikkgHZafd9uiX8JfvaaNCFPF2bWwhpcLHs82Ef",
@@ -56676,7 +56676,7 @@
     "marketCapUSD": 5600,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000056,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56684,8 +56684,8 @@
     "id": "Trench Art Marketplace-(ART)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000056,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:23.722Z",
     "cleanMint": "9oYaTCzhEKAQdNVykV55FBKJw5r2jvtz8VqMPDhd",
@@ -56702,7 +56702,7 @@
     "marketCapUSD": 5800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000058,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56710,8 +56710,8 @@
     "id": "New LA Zoo Vulture-(SPRINGER)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000058,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:23.968Z",
     "cleanMint": "7G2mPNGL7Zai9fAhkecUh3AqxUuAreJSjksUdtrW",
@@ -56728,7 +56728,7 @@
     "marketCapUSD": 7400,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000074,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56736,8 +56736,8 @@
     "id": "REAL SATOSHI-(PAULLEROUX)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000074,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:24.212Z",
     "cleanMint": "CvFU5Q97eq5vRv3Zw7TUho8Kqqm6PptfD8DUXikg",
@@ -56754,7 +56754,7 @@
     "marketCapUSD": 5100,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000051,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56762,8 +56762,8 @@
     "id": "Upop-(UPOP)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000051,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:24.520Z",
     "cleanMint": "45KYfhKsLnTgTAGZqfB4x3CtZTLKHS4xAnxzMk9i",
@@ -56780,7 +56780,7 @@
     "marketCapUSD": 5400,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000054,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56788,8 +56788,8 @@
     "id": "PEOPLE OF THE UNITED STATES-(POTUS)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000054,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:24.760Z",
     "cleanMint": "KmqdZ2acJa8ndWCLXspk9op3XWH7pmfmuKKTv2g",
@@ -56806,7 +56806,7 @@
     "marketCapUSD": 4800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000048,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56814,8 +56814,8 @@
     "id": "DINO COIN-(DINO)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000048,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:24.998Z",
     "cleanMint": "3vA8WDytaHWSrk2quz2XPfG63HKqJthD43pq1HPF",
@@ -56832,7 +56832,7 @@
     "marketCapUSD": 6500,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000065,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56840,8 +56840,8 @@
     "id": "NEW YOUTUBE MASCOT-(DOOM)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000065,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:25.231Z",
     "cleanMint": "6nfnWi1uh5uGBBAAwbcMnJ9D5TNDdn8FmczsMXcS",
@@ -56858,7 +56858,7 @@
     "marketCapUSD": 5100,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000051,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56866,8 +56866,8 @@
     "id": "JAY CHOU-(JAY)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000051,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:25.473Z",
     "cleanMint": "7fuuDPTwzX3gKdvEd7fBsxDvsYftBzr4SYAFc8YM",
@@ -56884,7 +56884,7 @@
     "marketCapUSD": 4800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000048,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56892,8 +56892,8 @@
     "id": "BIMO-(BIMO)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000048,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:25.741Z",
     "cleanMint": "HPpG9HwtT3rCC9Sy9v56Zcqo4gNNsYxu9qa94EQC",
@@ -56936,7 +56936,7 @@
     "marketCapUSD": 4800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000048,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56944,8 +56944,8 @@
     "id": "win-(willwin+)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000048,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:26.218Z",
     "cleanMint": "8NnLHHQ6pdV4NktTSpE6oxk4Nw8ZBkETVMYAXR2j",
@@ -56962,7 +56962,7 @@
     "marketCapUSD": 4900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000049,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56970,8 +56970,8 @@
     "id": "ZKsync-(ZKSYNC)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000049,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:26.455Z",
     "cleanMint": "5zUWncJZu7KnbTx5ZkV6SktxJTEqhhsWh4ZqZdNk",
@@ -56988,7 +56988,7 @@
     "marketCapUSD": 4800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000048,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -56996,8 +56996,8 @@
     "id": "Meme Squad-(Meme Squad)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000048,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:26.697Z",
     "cleanMint": "BGBwPtoTSkUWiXX1NVo6R1CWBkYQNzs8GU8abYXy",
@@ -57014,7 +57014,7 @@
     "marketCapUSD": 5800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000058,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57022,8 +57022,8 @@
     "id": "Pixelfy-(PIXELFY)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000058,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:26.933Z",
     "cleanMint": "ELxko83vSGBTRp2K4Z2thL3sa1z11TSMYm4y8gbi",
@@ -57040,7 +57040,7 @@
     "marketCapUSD": 6800,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000068,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57048,8 +57048,8 @@
     "id": "Smart Coin-(smartcoin)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000068,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:27.181Z",
     "cleanMint": "FDsNzM7uaeuRWZCirpXVwpSJ2AiHG2635nAhRK3J",
@@ -57066,7 +57066,7 @@
     "marketCapUSD": 4900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000049,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57074,8 +57074,8 @@
     "id": "Grindtok-(GRINDTOK)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000049,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:27.467Z",
     "cleanMint": "557NyUpyJPjTQaScJJm4yRftrfQahQpkA7B3uin8",
@@ -57092,7 +57092,7 @@
     "marketCapUSD": 4900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000049,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57100,8 +57100,8 @@
     "id": "MAGA Twitter-(MAGA)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000049,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:27.700Z",
     "cleanMint": "4gdvaQhCccxNqntB2WwujmPkK6q7svJXSs6FebzN",
@@ -57170,7 +57170,7 @@
     "marketCapUSD": 4800,
     "replies": 1,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000048,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57178,8 +57178,8 @@
     "id": "DV BANNED ON TWITCH-(DVCES CTO)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000048,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:28.822Z",
     "cleanMint": "6pV6faVecboxDjRrwZUsjVrHUNtZatkyFvGByodD",
@@ -57196,7 +57196,7 @@
     "marketCapUSD": 4900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000049,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57204,8 +57204,8 @@
     "id": "LAUNCH A STUPID COIN-(STUPIDCOIN)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000049,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:29.065Z",
     "cleanMint": "Ae7czkYDXiorwwvkda4eJGxhzfVWhn7sfwg8YgzZ",
@@ -57222,7 +57222,7 @@
     "marketCapUSD": 5900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000059,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57230,8 +57230,8 @@
     "id": "LyraverseAI-(LYRA)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000059,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:29.577Z",
     "cleanMint": "3u1qmk9aVKaUz4PZ3JoV5o9DH49kzho7xYPN7eHE",
@@ -57248,7 +57248,7 @@
     "marketCapUSD": 5100,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000051,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57256,8 +57256,8 @@
     "id": "ChatGPT Master Digital Age-(CmdA2025)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000051,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:29.822Z",
     "cleanMint": "4cAZvCw3rFz5xayU1MWKahKjgzLUYn5by4hJJQ5y",
@@ -57274,7 +57274,7 @@
     "marketCapUSD": 5100,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000051,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57282,8 +57282,8 @@
     "id": "Hyperliquid-(liquid)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000051,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:30.407Z",
     "cleanMint": "2Xo8TjZAdbSdwKqDD3Jq1yzuunJ6HZ2kyZTeSnB8",
@@ -57300,7 +57300,7 @@
     "marketCapUSD": 6900,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000069,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57308,8 +57308,8 @@
     "id": "B combinator-(BC)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000069,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:30.666Z",
     "cleanMint": "FTZjHbNxT42bv7LpRnUbyUPmodykesMbHW4ChCVR",
@@ -57326,7 +57326,7 @@
     "marketCapUSD": 5400,
     "replies": 0,
     "price": "",
-    "priceUSD": "",
+    "priceUSD": 0.0000054,
     "supply": "",
     "volume": "",
     "flagged": false,
@@ -57334,8 +57334,8 @@
     "id": "Stable Runner-(SR)",
     "status": "tradable",
     "verified": true,
-    "alerted": false,
-    "entryPrice": 0,
+    "alerted": true,
+    "entryPrice": 0.0000054,
     "gainPercent": 0,
     "checkedAt": "2025-05-21T16:02:30.928Z",
     "cleanMint": "CQgq3wJ7heEhkpdpjyEFM1UgdDVPoRTTLq6kWsSq",

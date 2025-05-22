@@ -92,3 +92,9 @@
 [2025-05-21T16:01:20.029Z] [SNIPER] Running full pipeline
 [2025-05-21T16:02:10.903Z] [SCRAPER] Scraped 32 token(s)
 [2025-05-21T16:02:33.390Z] [JUPITER] Checker complete
+[2025-05-21T16:03:52.422Z] [TRACKER] Price tracking complete
+[2025-05-21T16:03:52.938Z] [EVALUATOR] Performance check complete
+[2025-05-21T16:03:53.134Z] [ENTRY] Entry evaluation complete
+[2025-05-21T16:03:53.138Z] [SNIPER] ✅ Full pipeline complete
+[2025-05-21T16:06:20.033Z] [SNIPER] Running full pipeline
+[2025-05-21T16:06:50.958Z] [ERROR] ❌ Pipeline failed: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!

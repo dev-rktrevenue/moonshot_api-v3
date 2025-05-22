@@ -12,11 +12,16 @@ async function runSniperPipeline() {
   logEvent('SNIPER', 'Running full pipeline');
 
   try {
+    // 🔍 Always run this first to verify page load
+    const screenshotPath = await screenshotPumpFun();
+    if (screenshotPath) {
+      console.log(`📸 Screenshot saved at: ${screenshotPath}`);
+    } else {
+      console.log('⚠️ Screenshot function failed or returned nothing.');
+    }
+
     const newTokens = await scrapePumpFunTokens();
     if (newTokens.length > 0) {
-      const screenshotPath = await screenshotPumpFun();
-      console.log(`📦 Screenshot Function Ran`);
-
       console.log(`📦 Found ${newTokens.length} new tokens → checking Jupiter...`);
       logEvent('SCRAPER', `Scraped ${newTokens.length} token(s)`);
       await runJupiterChecker();
@@ -31,7 +36,7 @@ async function runSniperPipeline() {
     await runPerformanceEvaluator();
     logEvent('EVALUATOR', 'Performance check complete');
 
-    runEntryEvaluator(); // not async, safe to run at the end
+    runEntryEvaluator(); // not async
     logEvent('ENTRY', 'Entry evaluation complete');
 
     console.log('✅ [SNIPER] Pipeline complete\n');

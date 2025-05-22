@@ -11,13 +11,10 @@ async function screenshotPumpFun() {
   if (!fs.existsSync(screenshotDir)) {
     fs.mkdirSync(screenshotDir, { recursive: true });
   }
-  
-  const filePath = path.join(screenshotDir, `pumpfun-${timestamp}.png`);
 
-  // Ensure the directory exists
-  if (!fs.existsSync(screenshotDir)) {
-    fs.mkdirSync(screenshotDir, { recursive: true });
-  }
+  console.log('📂 Screenshot directory resolved to:', screenshotDir);
+
+  const filePath = path.join(screenshotDir, `pumpfun-${timestamp}.png`);
 
   try {
     const browser = await puppeteer.launch({

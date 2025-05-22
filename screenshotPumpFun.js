@@ -4,7 +4,9 @@ const fs = require('fs');
 
 async function screenshotPumpFun() {
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-  const screenshotDir = path.join(__dirname, '../data/screenshots');
+  // Absolute-safe project path
+  const projectRoot = path.resolve(__dirname, '..');
+  const screenshotDir = path.join(projectRoot, 'data', 'screenshots');
   const filePath = path.join(screenshotDir, `pumpfun-${timestamp}.png`);
 
   // Ensure the directory exists

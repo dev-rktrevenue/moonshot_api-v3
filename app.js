@@ -19,9 +19,11 @@ app.use(express.urlencoded({ extended: true }));
 const homeRoutes = require('./routes/dashboard');
 const exportRoutes = require('./routes/export');
 const logsRoutes = require('./routes/logs');
+const debugRoutes = require('./routes/debug');
 app.use('/', homeRoutes);
 app.use('/', exportRoutes);
 app.use('/', logsRoutes);
+app.use('/', debugRoutes);
 
 // 🧠 Routes
 app.get('/', (req, res) => {

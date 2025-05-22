@@ -5,8 +5,13 @@ const fs = require('fs');
 async function screenshotPumpFun() {
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
   // Absolute-safe project path
-  const projectRoot = path.resolve(__dirname, '..');
-  const screenshotDir = path.join(projectRoot, 'data', 'screenshots');
+  const screenshotDir = path.join(__dirname, '../data/screenshots');
+
+  // ✅ Create the folder dynamically at runtime
+  if (!fs.existsSync(screenshotDir)) {
+    fs.mkdirSync(screenshotDir, { recursive: true });
+  }
+  
   const filePath = path.join(screenshotDir, `pumpfun-${timestamp}.png`);
 
   // Ensure the directory exists
